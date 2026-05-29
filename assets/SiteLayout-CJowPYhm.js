@@ -248,7 +248,7 @@ function B() {
                     className: "flex items-start gap-2",
                     children: [
                       e.jsx(z, { size: 16, className: "mt-0.5 shrink-0 text-accent" }),
-                      "(11) 96215-8598",
+                      "(31) 98259-9730",
                     ],
                   }),
                   e.jsxs("li", {
@@ -256,11 +256,11 @@ function B() {
                     children: [
                       e.jsx(C, { size: 16, className: "mt-0.5 shrink-0 text-accent" }),
                       e.jsx("a", {
-                        href: "https://mail.google.com/mail/?view=cm&fs=1&to=contato@ivomix.com.br",
+                        href: "https://mail.google.com/mail/?view=cm&fs=1&to=contato@concretamais.online",
                         target: "_blank",
                         rel: "noopener noreferrer",
                         className: "hover:text-accent",
-                        children: "contato@ivomix.com.br",
+                        children: "contato@concretamais.online",
                       }),
                     ],
                   }),
