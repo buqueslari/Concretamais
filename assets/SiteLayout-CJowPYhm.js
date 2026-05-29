@@ -306,7 +306,7 @@ function B() {
                 " ConcretaMais. Todos os direitos reservados.",
               ],
             }),
-            e.jsx("p", { children: "CNPJ 37.162.092/0001-16" }),
+            e.jsx("p", { children: "CNPJ 64.147.041/0001-98" }),
           ],
         }),
       }),
