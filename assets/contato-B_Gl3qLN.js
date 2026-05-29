@@ -13,12 +13,12 @@ const c = [
   ],
   d = s("message-circle", c),
   m = [
-    { icon: d, title: "WhatsApp", value: "(31)  98259-9730", href: "https://wa.me/5531982599730" },
+    { icon: d, title: "WhatsApp", value: "(11) 96215-8598", href: "https://wa.me/5531982599730" },
     {
       icon: o,
       title: "E-mail",
-      value: "contato@concretamais.online",
-      href: "https://mail.google.com/mail/?view=cm&fs=1&to=contato@concretamais.online",
+      value: "contato@ivomix.com.br",
+      href: "https://mail.google.com/mail/?view=cm&fs=1&to=contato@ivomix.com.br",
     },
     { icon: i, title: "Endereço", value: "Rua Fortaleza, número 74 — Vila dos Palmares" },
     { icon: n, title: "Horário", value: "Seg–Sex 7h–18h · Sáb 7h–16h" },

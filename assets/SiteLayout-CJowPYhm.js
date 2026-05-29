@@ -248,7 +248,7 @@ function B() {
                     className: "flex items-start gap-2",
                     children: [
                       e.jsx(z, { size: 16, className: "mt-0.5 shrink-0 text-accent" }),
-                      "(31)  98259-9730",
+                      "(11) 96215-8598",
                     ],
                   }),
                   e.jsxs("li", {
@@ -256,11 +256,11 @@ function B() {
                     children: [
                       e.jsx(C, { size: 16, className: "mt-0.5 shrink-0 text-accent" }),
                       e.jsx("a", {
-                        href: "https://mail.google.com/mail/?view=cm&fs=1&to=contato@concretamais.online",
+                        href: "https://mail.google.com/mail/?view=cm&fs=1&to=contato@ivomix.com.br",
                         target: "_blank",
                         rel: "noopener noreferrer",
                         className: "hover:text-accent",
-                        children: "contato@concretamais.online",
+                        children: "contato@ivomix.com.br",
                       }),
                     ],
                   }),
@@ -306,7 +306,7 @@ function B() {
                 " ConcretaMais. Todos os direitos reservados.",
               ],
             }),
-            e.jsx("p", { children: "CNPJ 64.147.041/0001-98" }),
+            e.jsx("p", { children: "CNPJ 37.162.092/0001-16" }),
           ],
         }),
       }),

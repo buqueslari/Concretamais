@@ -46,6 +46,8 @@
   document.addEventListener(
     "click",
     function (event) {
+      if (event.defaultPrevented) return;
+
       const link =
         event.target.closest && event.target.closest('a[href*="wa.me"], a[href="/orcamento"]');
       if (!link) return;

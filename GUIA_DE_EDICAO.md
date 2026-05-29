@@ -14,6 +14,7 @@ Os arquivos foram formatados para ficarem com indentacao e quebras de linha.
 
 - `assets/concretamais-brand.css`: cores da marca e estilo do bloco de historia.
 - `assets/brand-update.js`: troca da logo e bloco da historia na pagina inicial.
+- `assets/conversion-tracking.js`: tag de conversao do Google Ads nos botoes de contato.
 - `assets/whatsapp-fix.js`: links do WhatsApp e mensagem automatica.
 - `assets/styles-BPyfingW.css`: CSS geral do site.
 

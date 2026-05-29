@@ -20035,13 +20035,13 @@ const qa = qE()({
     ],
     links: [{ rel: "stylesheet", href: QR }],
     scripts: [
-      { async: !0, src: "https://www.googletagmanager.com/gtag/js?id=AW-18190790747" },
+      { async: !0, src: "https://www.googletagmanager.com/gtag/js?id=AW-18191924539" },
       {
         type: "text/javascript",
         children: `window.dataLayer = window.dataLayer || [];
 function gtag(){dataLayer.push(arguments);}
 gtag('js', new Date());
-gtag('config', 'AW-18190790747');`,
+gtag('config', 'AW-18191924539');`,
       },
     ],
   }),
