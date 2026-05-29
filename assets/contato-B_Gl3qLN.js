@@ -17,8 +17,8 @@ const c = [
     {
       icon: o,
       title: "E-mail",
-      value: "contato@ivomix.com.br",
-      href: "https://mail.google.com/mail/?view=cm&fs=1&to=contato@ivomix.com.br",
+      value: "contato@concretamais.online",
+      href: "https://mail.google.com/mail/?view=cm&fs=1&to=contato@concretamais.online",
     },
     { icon: i, title: "Endereço", value: "Rua Fortaleza, número 74 — Vila dos Palmares" },
     { icon: n, title: "Horário", value: "Seg–Sex 7h–18h · Sáb 7h–16h" },

@@ -256,11 +256,11 @@ function B() {
                     children: [
                       e.jsx(C, { size: 16, className: "mt-0.5 shrink-0 text-accent" }),
                       e.jsx("a", {
-                        href: "https://mail.google.com/mail/?view=cm&fs=1&to=contato@ivomix.com.br",
+                        href: "https://mail.google.com/mail/?view=cm&fs=1&to=contato@concretamais.online",
                         target: "_blank",
                         rel: "noopener noreferrer",
                         className: "hover:text-accent",
-                        children: "contato@ivomix.com.br",
+                        children: "contato@concretamais.online",
                       }),
                     ],
                   }),
@@ -306,7 +306,7 @@ function B() {
                 " ConcretaMais. Todos os direitos reservados.",
               ],
             }),
-            e.jsx("p", { children: "CNPJ 37.162.092/0001-16" }),
+            e.jsx("p", { children: "CNPJ 64.147.041/0001-98" }),
           ],
         }),
       }),
