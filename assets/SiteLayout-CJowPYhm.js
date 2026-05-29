@@ -284,8 +284,8 @@ function B() {
               e.jsxs("ul", {
                 className: "mt-4 space-y-2 text-sm text-primary-foreground/80",
                 children: [
-                  e.jsx("li", { children: "Seg – Sex: 7h às 18h" }),
-                  e.jsx("li", { children: "Sábado: 7h às 16h" }),
+                  e.jsx("li", { children: "Seg – Sex: 7h às 00h" }),
+                  e.jsx("li", { children: "Sábado: 7h às 00h" }),
                   e.jsx("li", { children: "Plantão para grandes obras" }),
                 ],
               }),
