@@ -248,7 +248,7 @@ function B() {
                     className: "flex items-start gap-2",
                     children: [
                       e.jsx(z, { size: 16, className: "mt-0.5 shrink-0 text-accent" }),
-                      "(11) 96215-8598",
+                      "(31)  98259-9730",
                     ],
                   }),
                   e.jsxs("li", {

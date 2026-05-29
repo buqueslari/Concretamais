@@ -13,7 +13,7 @@ const c = [
   ],
   d = s("message-circle", c),
   m = [
-    { icon: d, title: "WhatsApp", value: "(11) 96215-8598", href: "https://wa.me/5531982599730" },
+    { icon: d, title: "WhatsApp", value: "(31)  98259-9730", href: "https://wa.me/5531982599730" },
     {
       icon: o,
       title: "E-mail",
