@@ -1,5 +1,5 @@
 (function () {
-  const whatsappNumber = "5531982599730";
+  const whatsappNumber = "5531982298425";
   const defaultMessage =
     "Olá! Vim pelo site da ConcretaMais e gostaria de solicitar um orçamento.\n\nPode me ajudar com uma proposta?\n\nTipo de obra/serviço:\nCidade da obra:\nVolume estimado (m³):\nData desejada:";
 

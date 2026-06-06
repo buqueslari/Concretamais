@@ -326,7 +326,7 @@ function O() {
         children: "Solicite seu orçamento",
       }),
       e.jsx("a", {
-        href: `https://wa.me/5531982599730?text=${t}`,
+        href: `https://wa.me/5531982298425?text=${t}`,
         target: "_blank",
         rel: "noopener noreferrer",
         "aria-label": "Fale conosco pelo WhatsApp",
